@@ -11,3 +11,8 @@ https://www.guru99.com/file-permissions.html
 
 # Search file which include text
 grep -r "proxmox_logo.png" /usr/share/pve-manager/
+
+# History 
+https://phoenixnap.com/kb/linux-history-command  \
+shanlay@linuxguy:~$ history > history_cmd.txt
+
